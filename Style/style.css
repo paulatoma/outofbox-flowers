@@ -9,6 +9,9 @@ section{
   background: url(outofbox-cover.jpg);
   background-attachment: fixed;
   background-size: cover;
+  width: 100%;
+  height: 500px;
+  background-position: center center;
 }
 .shop-title{
   position: absolute;
