@@ -14,20 +14,35 @@ section{
 }
 .shop-title{
   position: absolute;
-  left: 50%;
-  margin-left: -170px;
-  top: 300px;
-  border: 3px solid white;
+  left: 10%;
+  right:10%;
+  top: 200px;
+  border: 6px solid white;
   padding: 10px;
+  text-align: center;
 }
 .shop-paragraph{
   position: absolute;
-  left: 50%;
-  margin-left: -100px;
-  top: 400px;
+  left: 10%;
+  right: 10%;
+  top: 450px;
   text-align: center;
 }
 .container{
   margin-top: 50px;
-  margin-left: 50px;
+  margin-bottom: 50px;
+}
+.card-deck{
+  margin-top: 50px;
+}
+
+.order{
+  padding-top:80px;
+}
+.sec1{
+  background: url(leonardo.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  background-position: center center;
 }
