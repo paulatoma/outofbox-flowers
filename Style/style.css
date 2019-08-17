@@ -9,7 +9,7 @@ section{
   background: url(outofbox-cover.jpg);
   background-attachment: fixed;
   background-size: cover;
-  width: 100%;
+  width: auto;
   background-position: center center;
 }
 .shop-title{
@@ -43,6 +43,6 @@ section{
   background: url(leonardo.jpg);
   background-attachment: fixed;
   background-size: cover;
-  width: 100%;
+  width: auto;
   background-position: center center;
 }
